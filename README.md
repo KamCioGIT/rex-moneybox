@@ -14,6 +14,8 @@
 # Installation:
 - ensure that the dependancies are added and started
 - add rex-moneybox to your resources folder
+- items have already been added to rsg-core check you have the latest version
+- images have already been added to rsg-core check you have the latest version
 - add the following table to your database : rex-moneybox.sql
 
 # Starting the resource:
